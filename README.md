@@ -1,2 +1,2 @@
 # Frontend-Mentor
-Soumissions pour FRontend-Mentor
+Soumissions pour Frontend-Mentor
