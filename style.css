@@ -56,7 +56,7 @@ main {
     text-align: center;
     color: hsl(216, 15%, 48%);
     padding: 0 20px;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
 }
 
 @media screen and (max-width: 1440px) {
@@ -93,7 +93,7 @@ main {
     }
 
     .flexbox img {
-        width: 90%;
+        width: 90%; 
         height: auto;
         margin: 10px 0;
     }
